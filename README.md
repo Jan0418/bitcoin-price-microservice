@@ -39,7 +39,7 @@ docker run -p 5000:5000 -d bitcoin-price-microservice
 
 ### Folder Structure
 
-Here is the core folder structure which flutter provides.
+Here is the core folder structure which project provides.
 
 ```
 bitcoin-price-microservice/
